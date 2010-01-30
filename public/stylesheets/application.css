@@ -1,0 +1,7 @@
+body{position:relative;background:#f2f2dc;margin:25px 0 0;}
+#page{z-index:9;text-align:center;}
+#stripe{background:#b5e6e8;border-top:20px solid #603913;border-bottom:20px solid #603913;}
+#logo_text{height:50px;position:relative;}
+#crest{position:relative;margin-bottom:50px;}
+.rule{}
+#page img{position:relative;z-index:9;}
