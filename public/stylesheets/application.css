@@ -1,7 +1,19 @@
-body{position:relative;background:#f2f2dc;margin:25px 0 0;}
-#page{z-index:9;text-align:center;}
+body{font-family:georgia;font-size:10pt;position:relative;background:#f2f2dc;margin:25px 0 0;}
+
+.fl{float:left;}
+.fr{float:right;}
+.clr{clear:both;}
+
+.pct_50{width:50%;}
+
+#page{position:relative;z-index:9;text-align:center;}
 #stripe{background:#b5e6e8;border-top:20px solid #603913;border-bottom:20px solid #603913;}
 #logo_text{height:50px;position:relative;}
-#crest{position:relative;margin-bottom:50px;}
-.rule{}
+#crest{position:relative;}
+
+#contact{position:relative;z-index:19;width:600px;margin:10px auto;background:#fff;border:3px double #603913;}
+#contact p{margin:10px;text-align:left;}
+#contact p.left{margin-right:5px;}
+#contact p.right{margin-left:5px;}
 #page img{position:relative;z-index:9;}
+#page img.rule{z-index:2;position:absolute;left:325px;bottom:50px;}
