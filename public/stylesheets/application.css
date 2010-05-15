@@ -16,4 +16,4 @@ body{font-family:georgia;font-size:10pt;position:relative;background:#f2f2dc;mar
 #contact p.left{margin-right:5px;}
 #contact p.right{margin-left:5px;}
 #page img{position:relative;z-index:9;}
-#page img.rule{z-index:2;position:absolute;left:325px;bottom:50px;}
+#page img.rule{display:none;}
